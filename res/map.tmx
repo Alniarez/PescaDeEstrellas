@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="100" height="15" tilewidth="32" tileheight="32" nextobjectid="72">
+ <tileset firstgid="1" name="Lago pasteloso" tilewidth="32" tileheight="32" tilecount="98">
+  <image source="tiles32 pasteloso.png" width="448" height="224"/>
+ </tileset>
+ <tileset firstgid="99" name="Prototipo lago" tilewidth="32" tileheight="32" tilecount="98">
+  <image source="tiles32.png" width="448" height="224"/>
+ </tileset>
+ <tileset firstgid="197" name="Lago" tilewidth="32" tileheight="32" tilecount="98">
+  <image source="tiles32.png" width="448" height="224"/>
+ </tileset>
+ <layer name="Capa de Patrones 1" width="100" height="15">
+  <data encoding="base64" compression="zlib">
+   eJzt1TkPwjAMBeCsnCvl2LjZQFz//5dhhkgRSqgdP7cIefgWVFUvdl5pQghN4kpuH7+lDuRITl+eSd3JgzyZz0uytJFmldiRvcF7u5xv1yyzcu5KzX1AZra6M9oz9pVdMtt4LmRGzfeFO+fSGbXz1H4btXuP5xpkjAwztuXh3CXtPCW7Q/cx5hwXZj/LmIN30Mc9RGWw+g9aFGafsyYbMnQmJmQq2Mfb5Qdy/6ulcBfeETs13fCO2KnphnfEhqYb3hE8TTe8I1iIbnhHcBDdiM5k5VS2zFm/AKy0cMg=
+  </data>
+ </layer>
+ <objectgroup name="Suelos">
+  <object id="42" x="0" y="128">
+   <polyline points="0,0 160,0 320,320 2880,320 3040,0 3200,0 3200,-128 0,-128 0,0"/>
+  </object>
+ </objectgroup>
+ <objectgroup name="Agua">
+  <object id="48" x="161" y="159" width="3009.67" height="287.666"/>
+ </objectgroup>
+ <objectgroup name="Peces">
+  <object id="26" x="795.333" y="316.667"/>
+  <object id="28" x="666" y="333"/>
+  <object id="29" x="606" y="288.667"/>
+  <object id="30" x="674.667" y="369.333"/>
+  <object id="31" x="457" y="350"/>
+  <object id="32" x="396" y="358"/>
+  <object id="33" x="783" y="379"/>
+  <object id="34" x="555" y="320"/>
+  <object id="53" x="751" y="250"/>
+  <object id="54" x="640" y="237"/>
+  <object id="55" x="468" y="236"/>
+  <object id="56" x="2245" y="360"/>
+  <object id="57" x="2161" y="280"/>
+  <object id="58" x="2015" y="277"/>
+  <object id="59" x="1944" y="318"/>
+  <object id="60" x="1909" y="342"/>
+  <object id="61" x="1857" y="272"/>
+  <object id="62" x="1870" y="261"/>
+  <object id="63" x="1941" y="250"/>
+  <object id="64" x="2070" y="240"/>
+  <object id="65" x="2079" y="309"/>
+  <object id="66" x="2058" y="361"/>
+  <object id="67" x="2524" y="319"/>
+  <object id="68" x="2524" y="319"/>
+  <object id="69" x="2524" y="319"/>
+  <object id="70" x="2524" y="319"/>
+  <object id="71" x="2524" y="319"/>
+ </objectgroup>
+ <objectgroup name="Limites">
+  <object id="52" x="-128" y="-160">
+   <polyline points="0,0 3616,-32 3584,896 -192,800 -32,32 224,-160"/>
+  </object>
+ </objectgroup>
+</map>

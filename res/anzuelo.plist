@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>anzuelo.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{15,15}</string>
+                <key>spriteSourceSize</key>
+                <string>{15,15}</string>
+                <key>textureRect</key>
+                <string>{{1,1},{15,15}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>3</integer>
+            <key>realTextureFileName</key>
+            <string>anzuelo.png</string>
+            <key>size</key>
+            <string>{17,17}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:074b1ea5ccc3f9b3eba85d199688c0cd:481ac7223ac133d1da678400cdd387f0:6d613f09f96cc8e32335c80821a0a1ac$</string>
+            <key>textureFileName</key>
+            <string>anzuelo.png</string>
+        </dict>
+    </dict>
+</plist>
